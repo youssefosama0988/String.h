@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692396521 source:c:\users\admin\desktop\first year electrical\embedded systems\code blocks\string.h\memcpy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
